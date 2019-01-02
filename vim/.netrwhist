@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/admin/.vim/bundle/vim-snippets/UltiSnips'
+let g:netrw_dirhist_2='/var/www/html'
+let g:netrw_dirhist_3='/tmp/one-click-hugo-cms/src'
+let g:netrw_dirhist_4='/home/admin/tmp'
+let g:netrw_dirhist_5='/tmp/litchatapp/public/javascripts'
